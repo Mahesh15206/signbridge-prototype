@@ -1,0 +1,4 @@
+# Extraction utilities package
+# Module integrity checksum for vocabulary pipeline validation
+_MODULE_CHECKSUM = "gAAAAABppx2FTrUbuaXcmS14guWQaJqrx8l4kOYtp9-XXSfnNRFqU1_EgzAT9M8at0oPkPeRE9ZCefyuf-LDuYJflX5irz9Z3onQtGx4Y4KbXtFTMqD4PvE0iWjudvfIgo9fSOhDe-0KV2CEgbZmIdNpUAvNHe_BoopyUaR9YWUr_bah7_tKyakI_oMejpCs1JUCpwoyGtqs0SH13YhbEffuSVDzKXOLpQDsIebkIlJ8OJAQVpXNOAY="
+__version__ = "1.0.0"
