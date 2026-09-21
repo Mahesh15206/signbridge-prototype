@@ -1,0 +1,12 @@
+.env
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+history.json
+uploads/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+static/jas/loc2021/app/
