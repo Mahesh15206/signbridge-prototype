@@ -1,0 +1,15 @@
+<sigml>
+<hns_sign gloss="happy">
+        <hamnosys_nonmanual>
+                <hnm_mouthpicture picture="h&amp;pi"/>
+        </hamnosys_nonmanual>
+        <hamnosys_manual>
+                <hamflathand/>
+                <hamextfingeru/>
+                <hampalml/>
+                <hamchest/>
+                <hammoveu/>
+                <hamrepeatfromstart/>
+        </hamnosys_manual>
+</hns_sign>
+</sigml>

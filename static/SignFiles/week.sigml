@@ -1,0 +1,19 @@
+<sigml>
+<hns_sign gloss="week">
+        <hamnosys_nonmanual>
+        </hamnosys_nonmanual>
+        <hamnosys_manual>
+                <hamfinger2/>
+                <hamfingerstraightmod/>
+                <hamextfingerul/>
+                <hampalml/>
+                <hambetween/>
+                <hamflathand/>
+                <hamextfingero/>
+                <hampalmu/>
+                <hamchest/>
+                <hammoveo/>
+                <hamlargemod/>
+        </hamnosys_manual>
+</hns_sign>
+</sigml>

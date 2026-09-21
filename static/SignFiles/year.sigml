@@ -1,0 +1,16 @@
+<sigml>
+<hns_sign gloss="year">
+        <hamnosys_nonmanual>
+                <hnm_mouthpicture picture="jI@"/>
+        </hamnosys_nonmanual>
+        <hamnosys_manual>
+                <hamsymmlr/>
+                <hamfist/>
+                <hamextfingero/>
+                <hampalmd/>
+                <hamchest/>
+                <hamcircleo/>
+                <hamrepeatfromstart/>
+        </hamnosys_manual>
+</hns_sign>
+</sigml>

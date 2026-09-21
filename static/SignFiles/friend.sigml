@@ -1,0 +1,29 @@
+<sigml>
+<hns_sign gloss="friend">
+        <hamnosys_nonmanual>
+                <hnm_mouthpicture picture="frEnd"/>
+        </hamnosys_nonmanual>
+        <hamnosys_manual>
+                <hamfinger2/>
+                <hamfingerstraightmod/>
+                <hamextfingerul/>
+                <hampalmu/>
+                <hamchest/>
+                <hamclose/>
+                <hamparbegin/>
+                <hamfingertip/>
+                <hamindexfinger/>
+                <hamplus/>
+                <hamfingertip/>
+                <hamindexfinger/>
+                <hamparend/>
+                <hamtouch/>
+                <hamreplace/>
+                <hamfinger2/>
+                <hamfingerstraightmod/>
+                <hamextfingerul/>
+                <hampalmd/>
+                <hamtouch/>
+        </hamnosys_manual>
+</hns_sign>
+</sigml>

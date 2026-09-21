@@ -1,0 +1,23 @@
+<sigml>
+<hns_sign gloss="tired">
+        <hamnosys_nonmanual>
+                <hnm_mouthpicture picture="taI@d"/>
+        </hamnosys_nonmanual>
+        <hamnosys_manual>
+                <hamsymmlr/>
+                <hamceeall/>
+                <hamfingerstraightmod/>
+                <hamextfingerul/>
+                <hampalml/>
+                <hamshoulders/>
+                <hamtouch/>
+                <hamparbegin/>
+                <hammoved/>
+                <hamlargemod/>
+                <hamreplace/>
+                <hamceeall/>
+                <hamfingerbendmod/>
+                <hamparend/>
+        </hamnosys_manual>
+</hns_sign>
+</sigml>

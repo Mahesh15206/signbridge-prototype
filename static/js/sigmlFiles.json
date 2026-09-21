@@ -1,0 +1,4442 @@
+[
+  {
+    "name": "0",
+    "fileName": "0.sigml"
+  },
+  {
+    "name": "1",
+    "fileName": "1.sigml"
+  },
+  {
+    "name": "10",
+    "fileName": "10.sigml"
+  },
+  {
+    "name": "100",
+    "fileName": "100.sigml"
+  },
+  {
+    "name": "11",
+    "fileName": "11.sigml"
+  },
+  {
+    "name": "12",
+    "fileName": "12.sigml"
+  },
+  {
+    "name": "13",
+    "fileName": "13.sigml"
+  },
+  {
+    "name": "1month",
+    "fileName": "1month.sigml"
+  },
+  {
+    "name": "2",
+    "fileName": "2.sigml"
+  },
+  {
+    "name": "2-3fingerbent",
+    "fileName": "2-3fingerbent.sigml"
+  },
+  {
+    "name": "2months",
+    "fileName": "2months.sigml"
+  },
+  {
+    "name": "3",
+    "fileName": "3.sigml"
+  },
+  {
+    "name": "4",
+    "fileName": "4.sigml"
+  },
+  {
+    "name": "5",
+    "fileName": "5.sigml"
+  },
+  {
+    "name": "6",
+    "fileName": "6.sigml"
+  },
+  {
+    "name": "7",
+    "fileName": "7.sigml"
+  },
+  {
+    "name": "8",
+    "fileName": "8.sigml"
+  },
+  {
+    "name": "9",
+    "fileName": "9.sigml"
+  },
+  {
+    "name": "_the",
+    "fileName": "_the.sigml"
+  },
+  {
+    "name": "about",
+    "fileName": "about.sigml"
+  },
+  {
+    "name": "above",
+    "fileName": "above.sigml"
+  },
+  {
+    "name": "absorb",
+    "fileName": "absorb.sigml"
+  },
+  {
+    "name": "accept",
+    "fileName": "accept.sigml"
+  },
+  {
+    "name": "access",
+    "fileName": "access.sigml"
+  },
+  {
+    "name": "accident",
+    "fileName": "accident.sigml"
+  },
+  {
+    "name": "accuse",
+    "fileName": "accuse.sigml"
+  },
+  {
+    "name": "achakan",
+    "fileName": "achakan.sigml"
+  },
+  {
+    "name": "across",
+    "fileName": "across.sigml"
+  },
+  {
+    "name": "act",
+    "fileName": "act.sigml"
+  },
+  {
+    "name": "acting",
+    "fileName": "acting.sigml"
+  },
+  {
+    "name": "active",
+    "fileName": "active.sigml"
+  },
+  {
+    "name": "actor",
+    "fileName": "actor.sigml"
+  },
+  {
+    "name": "actress",
+    "fileName": "actress.sigml"
+  },
+  {
+    "name": "add",
+    "fileName": "add.sigml"
+  },
+  {
+    "name": "additional",
+    "fileName": "additional.sigml"
+  },
+  {
+    "name": "advice",
+    "fileName": "advice.sigml"
+  },
+  {
+    "name": "advise",
+    "fileName": "advise.sigml"
+  },
+  {
+    "name": "aeroplane",
+    "fileName": "aeroplane.sigml"
+  },
+  {
+    "name": "afraid",
+    "fileName": "afraid.sigml"
+  },
+  {
+    "name": "africa",
+    "fileName": "africa.sigml"
+  },
+  {
+    "name": "after",
+    "fileName": "after.sigml"
+  },
+  {
+    "name": "afternoon",
+    "fileName": "afternoon.sigml"
+  },
+  {
+    "name": "again",
+    "fileName": "again.sigml"
+  },
+  {
+    "name": "age",
+    "fileName": "age.sigml"
+  },
+  {
+    "name": "agree",
+    "fileName": "agree.sigml"
+  },
+  {
+    "name": "alive",
+    "fileName": "alive.sigml"
+  },
+  {
+    "name": "all",
+    "fileName": "all.sigml"
+  },
+  {
+    "name": "allah",
+    "fileName": "allah.sigml"
+  },
+  {
+    "name": "allday",
+    "fileName": "allday.sigml"
+  },
+  {
+    "name": "allover",
+    "fileName": "allover.sigml"
+  },
+  {
+    "name": "allow",
+    "fileName": "allow.sigml"
+  },
+  {
+    "name": "almirah",
+    "fileName": "almirah.sigml"
+  },
+  {
+    "name": "alone",
+    "fileName": "alone.sigml"
+  },
+  {
+    "name": "always",
+    "fileName": "always.sigml"
+  },
+  {
+    "name": "ambulance",
+    "fileName": "ambulance.sigml"
+  },
+  {
+    "name": "america",
+    "fileName": "america.sigml"
+  },
+  {
+    "name": "among",
+    "fileName": "among.sigml"
+  },
+  {
+    "name": "andhrapradesh",
+    "fileName": "andhrapradesh.sigml"
+  },
+  {
+    "name": "angel",
+    "fileName": "angel.sigml"
+  },
+  {
+    "name": "angry",
+    "fileName": "angry.sigml"
+  },
+  {
+    "name": "announce",
+    "fileName": "announce.sigml"
+  },
+  {
+    "name": "anothertime",
+    "fileName": "anothertime.sigml"
+  },
+  {
+    "name": "anothertime2",
+    "fileName": "anothertime2.sigml"
+  },
+  {
+    "name": "answer",
+    "fileName": "answer.sigml"
+  },
+  {
+    "name": "ant",
+    "fileName": "ant.sigml"
+  },
+  {
+    "name": "antartica",
+    "fileName": "antartica.sigml"
+  },
+  {
+    "name": "any",
+    "fileName": "any.sigml"
+  },
+  {
+    "name": "anything",
+    "fileName": "anything.sigml"
+  },
+  {
+    "name": "appear",
+    "fileName": "appear.sigml"
+  },
+  {
+    "name": "appears",
+    "fileName": "appears.sigml"
+  },
+  {
+    "name": "apple",
+    "fileName": "apple.sigml"
+  },
+  {
+    "name": "appointment",
+    "fileName": "appointment.sigml"
+  },
+  {
+    "name": "april",
+    "fileName": "april.sigml"
+  },
+  {
+    "name": "are",
+    "fileName": "are.sigml"
+  },
+  {
+    "name": "area",
+    "fileName": "area.sigml"
+  },
+  {
+    "name": "areoplane",
+    "fileName": "areoplane.sigml"
+  },
+  {
+    "name": "argue",
+    "fileName": "argue.sigml"
+  },
+  {
+    "name": "around",
+    "fileName": "around.sigml"
+  },
+  {
+    "name": "arrange",
+    "fileName": "arrange.sigml"
+  },
+  {
+    "name": "arrest",
+    "fileName": "arrest.sigml"
+  },
+  {
+    "name": "arrive",
+    "fileName": "arrive.sigml"
+  },
+  {
+    "name": "art",
+    "fileName": "art.sigml"
+  },
+  {
+    "name": "asia",
+    "fileName": "asia.sigml"
+  },
+  {
+    "name": "askanything",
+    "fileName": "askanything.sigml"
+  },
+  {
+    "name": "askquestion",
+    "fileName": "askquestion.sigml"
+  },
+  {
+    "name": "assam",
+    "fileName": "assam.sigml"
+  },
+  {
+    "name": "associate",
+    "fileName": "associate.sigml"
+  },
+  {
+    "name": "at",
+    "fileName": "at.sigml"
+  },
+  {
+    "name": "at_this_place",
+    "fileName": "at_this_place.sigml"
+  },
+  {
+    "name": "atap",
+    "fileName": "atap.sigml"
+  },
+  {
+    "name": "atest",
+    "fileName": "atest.sigml"
+  },
+  {
+    "name": "atlast",
+    "fileName": "atlast.sigml"
+  },
+  {
+    "name": "attend",
+    "fileName": "attend.sigml"
+  },
+  {
+    "name": "audiologist",
+    "fileName": "audiologist.sigml"
+  },
+  {
+    "name": "auditorium",
+    "fileName": "auditorium.sigml"
+  },
+  {
+    "name": "australia",
+    "fileName": "australia.sigml"
+  },
+  {
+    "name": "austria",
+    "fileName": "austria.sigml"
+  },
+  {
+    "name": "auto_rickshaws",
+    "fileName": "auto_rickshaws.sigml"
+  },
+  {
+    "name": "autorickshaw",
+    "fileName": "autorickshaw.sigml"
+  },
+  {
+    "name": "available",
+    "fileName": "available.sigml"
+  },
+  {
+    "name": "avoid",
+    "fileName": "avoid.sigml"
+  },
+  {
+    "name": "awful",
+    "fileName": "awful.sigml"
+  },
+  {
+    "name": "axe",
+    "fileName": "axe.sigml"
+  },
+  {
+    "name": "axis",
+    "fileName": "axis.sigml"
+  },
+  {
+    "name": "bad",
+    "fileName": "bad.sigml"
+  },
+  {
+    "name": "badminton",
+    "fileName": "badminton.sigml"
+  },
+  {
+    "name": "bag",
+    "fileName": "bag.sigml"
+  },
+  {
+    "name": "bake",
+    "fileName": "bake.sigml"
+  },
+  {
+    "name": "ball",
+    "fileName": "ball.sigml"
+  },
+  {
+    "name": "ballon",
+    "fileName": "ballon.sigml"
+  },
+  {
+    "name": "bandage",
+    "fileName": "bandage.sigml"
+  },
+  {
+    "name": "bangali",
+    "fileName": "bangali.sigml"
+  },
+  {
+    "name": "basketball",
+    "fileName": "basketball.sigml"
+  },
+  {
+    "name": "bat",
+    "fileName": "bat.sigml"
+  },
+  {
+    "name": "bath",
+    "fileName": "bath.sigml"
+  },
+  {
+    "name": "beak",
+    "fileName": "beak.sigml"
+  },
+  {
+    "name": "bearwithit",
+    "fileName": "bearwithit.sigml"
+  },
+  {
+    "name": "beat",
+    "fileName": "beat.sigml"
+  },
+  {
+    "name": "beautiful",
+    "fileName": "beautiful.sigml"
+  },
+  {
+    "name": "become",
+    "fileName": "become.sigml"
+  },
+  {
+    "name": "before",
+    "fileName": "before.sigml"
+  },
+  {
+    "name": "before2",
+    "fileName": "before2.sigml"
+  },
+  {
+    "name": "begin",
+    "fileName": "begin.sigml"
+  },
+  {
+    "name": "behind",
+    "fileName": "behind.sigml"
+  },
+  {
+    "name": "belgium",
+    "fileName": "belgium.sigml"
+  },
+  {
+    "name": "bell",
+    "fileName": "bell.sigml"
+  },
+  {
+    "name": "below",
+    "fileName": "below.sigml"
+  },
+  {
+    "name": "bench",
+    "fileName": "bench.sigml"
+  },
+  {
+    "name": "bend",
+    "fileName": "bend.sigml"
+  },
+  {
+    "name": "benefit",
+    "fileName": "benefit.sigml"
+  },
+  {
+    "name": "bent-hand",
+    "fileName": "bent-hand.sigml"
+  },
+  {
+    "name": "berth",
+    "fileName": "berth.sigml"
+  },
+  {
+    "name": "best",
+    "fileName": "best.sigml"
+  },
+  {
+    "name": "better",
+    "fileName": "better.sigml"
+  },
+  {
+    "name": "between",
+    "fileName": "between.sigml"
+  },
+  {
+    "name": "bhagat",
+    "fileName": "bhagat.sigml"
+  },
+  {
+    "name": "bhangra",
+    "fileName": "bhangra.sigml"
+  },
+  {
+    "name": "bible",
+    "fileName": "bible.sigml"
+  },
+  {
+    "name": "big",
+    "fileName": "big.sigml"
+  },
+  {
+    "name": "bird",
+    "fileName": "bird.sigml"
+  },
+  {
+    "name": "black",
+    "fileName": "black.sigml"
+  },
+  {
+    "name": "blackboard",
+    "fileName": "blackboard.sigml"
+  },
+  {
+    "name": "blow",
+    "fileName": "blow.sigml"
+  },
+  {
+    "name": "blue",
+    "fileName": "blue.sigml"
+  },
+  {
+    "name": "boat",
+    "fileName": "boat.sigml"
+  },
+  {
+    "name": "body",
+    "fileName": "body.sigml"
+  },
+  {
+    "name": "bogies",
+    "fileName": "bogies.sigml"
+  },
+  {
+    "name": "boil",
+    "fileName": "boil.sigml"
+  },
+  {
+    "name": "book",
+    "fileName": "book.sigml"
+  },
+  {
+    "name": "books",
+    "fileName": "books.sigml"
+  },
+  {
+    "name": "borrow",
+    "fileName": "borrow.sigml"
+  },
+  {
+    "name": "bottle",
+    "fileName": "bottle.sigml"
+  },
+  {
+    "name": "bowl",
+    "fileName": "bowl.sigml"
+  },
+  {
+    "name": "boxing",
+    "fileName": "boxing.sigml"
+  },
+  {
+    "name": "boy",
+    "fileName": "boy.sigml"
+  },
+  {
+    "name": "bracket",
+    "fileName": "bracket.sigml"
+  },
+  {
+    "name": "bread",
+    "fileName": "bread.sigml"
+  },
+  {
+    "name": "break",
+    "fileName": "break.sigml"
+  },
+  {
+    "name": "break-in",
+    "fileName": "break-in.sigml"
+  },
+  {
+    "name": "bridge",
+    "fileName": "bridge.sigml"
+  },
+  {
+    "name": "brighton",
+    "fileName": "brighton.sigml"
+  },
+  {
+    "name": "bring",
+    "fileName": "bring.sigml"
+  },
+  {
+    "name": "britain",
+    "fileName": "britain.sigml"
+  },
+  {
+    "name": "broom",
+    "fileName": "broom.sigml"
+  },
+  {
+    "name": "brother",
+    "fileName": "brother.sigml"
+  },
+  {
+    "name": "brothers",
+    "fileName": "brothers.sigml"
+  },
+  {
+    "name": "brown",
+    "fileName": "brown.sigml"
+  },
+  {
+    "name": "brush",
+    "fileName": "brush.sigml"
+  },
+  {
+    "name": "bsl",
+    "fileName": "bsl.sigml"
+  },
+  {
+    "name": "buddha",
+    "fileName": "buddha.sigml"
+  },
+  {
+    "name": "budhpoornima",
+    "fileName": "budhpoornima.sigml"
+  },
+  {
+    "name": "build",
+    "fileName": "build.sigml"
+  },
+  {
+    "name": "building",
+    "fileName": "building.sigml"
+  },
+  {
+    "name": "bulb",
+    "fileName": "bulb.sigml"
+  },
+  {
+    "name": "bullockcart",
+    "fileName": "bullockcart.sigml"
+  },
+  {
+    "name": "bus",
+    "fileName": "bus.sigml"
+  },
+  {
+    "name": "bus_stand",
+    "fileName": "bus_stand.sigml"
+  },
+  {
+    "name": "business",
+    "fileName": "business.sigml"
+  },
+  {
+    "name": "busy",
+    "fileName": "busy.sigml"
+  },
+  {
+    "name": "buttons",
+    "fileName": "buttons.sigml"
+  },
+  {
+    "name": "buy",
+    "fileName": "buy.sigml"
+  },
+  {
+    "name": "buying",
+    "fileName": "buying.sigml"
+  },
+  {
+    "name": "by",
+    "fileName": "by.sigml"
+  },
+  {
+    "name": "bye",
+    "fileName": "bye.sigml"
+  },
+  {
+    "name": "c-x",
+    "fileName": "c-x.sigml"
+  },
+  {
+    "name": "cabbage",
+    "fileName": "cabbage.sigml"
+  },
+  {
+    "name": "calculator",
+    "fileName": "calculator.sigml"
+  },
+  {
+    "name": "call",
+    "fileName": "call.sigml"
+  },
+  {
+    "name": "calm-down",
+    "fileName": "calm-down.sigml"
+  },
+  {
+    "name": "can",
+    "fileName": "can.sigml"
+  },
+  {
+    "name": "cancel",
+    "fileName": "cancel.sigml"
+  },
+  {
+    "name": "cannot",
+    "fileName": "cannot.sigml"
+  },
+  {
+    "name": "cant",
+    "fileName": "cant.sigml"
+  },
+  {
+    "name": "canyousign",
+    "fileName": "canyousign.sigml"
+  },
+  {
+    "name": "car",
+    "fileName": "car.sigml"
+  },
+  {
+    "name": "carpenter",
+    "fileName": "carpenter.sigml"
+  },
+  {
+    "name": "carrom",
+    "fileName": "carrom.sigml"
+  },
+  {
+    "name": "carrot",
+    "fileName": "carrot.sigml"
+  },
+  {
+    "name": "carry",
+    "fileName": "carry.sigml"
+  },
+  {
+    "name": "catch",
+    "fileName": "catch.sigml"
+  },
+  {
+    "name": "catch-2",
+    "fileName": "catch-2.sigml"
+  },
+  {
+    "name": "cauliflower",
+    "fileName": "cauliflower.sigml"
+  },
+  {
+    "name": "ceiling",
+    "fileName": "ceiling.sigml"
+  },
+  {
+    "name": "cement",
+    "fileName": "cement.sigml"
+  },
+  {
+    "name": "center",
+    "fileName": "center.sigml"
+  },
+  {
+    "name": "certificate",
+    "fileName": "certificate.sigml"
+  },
+  {
+    "name": "chair",
+    "fileName": "chair.sigml"
+  },
+  {
+    "name": "chalk",
+    "fileName": "chalk.sigml"
+  },
+  {
+    "name": "change1",
+    "fileName": "change1.sigml"
+  },
+  {
+    "name": "changeback",
+    "fileName": "changeback.sigml"
+  },
+  {
+    "name": "changemind",
+    "fileName": "changemind.sigml"
+  },
+  {
+    "name": "chase",
+    "fileName": "chase.sigml"
+  },
+  {
+    "name": "check",
+    "fileName": "check.sigml"
+  },
+  {
+    "name": "chemistry",
+    "fileName": "chemistry.sigml"
+  },
+  {
+    "name": "cheque",
+    "fileName": "cheque.sigml"
+  },
+  {
+    "name": "chess",
+    "fileName": "chess.sigml"
+  },
+  {
+    "name": "child",
+    "fileName": "child.sigml"
+  },
+  {
+    "name": "children",
+    "fileName": "children.sigml"
+  },
+  {
+    "name": "chilly",
+    "fileName": "chilly.sigml"
+  },
+  {
+    "name": "choose",
+    "fileName": "choose.sigml"
+  },
+  {
+    "name": "christian",
+    "fileName": "christian.sigml"
+  },
+  {
+    "name": "christmas",
+    "fileName": "christmas.sigml"
+  },
+  {
+    "name": "church",
+    "fileName": "church.sigml"
+  },
+  {
+    "name": "cinema",
+    "fileName": "cinema.sigml"
+  },
+  {
+    "name": "circle",
+    "fileName": "circle.sigml"
+  },
+  {
+    "name": "circus",
+    "fileName": "circus.sigml"
+  },
+  {
+    "name": "clap",
+    "fileName": "clap.sigml"
+  },
+  {
+    "name": "class",
+    "fileName": "class.sigml"
+  },
+  {
+    "name": "classroom",
+    "fileName": "classroom.sigml"
+  },
+  {
+    "name": "clerk",
+    "fileName": "clerk.sigml"
+  },
+  {
+    "name": "click",
+    "fileName": "click.sigml"
+  },
+  {
+    "name": "climb",
+    "fileName": "climb.sigml"
+  },
+  {
+    "name": "climbdown",
+    "fileName": "climbdown.sigml"
+  },
+  {
+    "name": "climbup",
+    "fileName": "climbup.sigml"
+  },
+  {
+    "name": "clinic",
+    "fileName": "clinic.sigml"
+  },
+  {
+    "name": "clock",
+    "fileName": "clock.sigml"
+  },
+  {
+    "name": "close",
+    "fileName": "close.sigml"
+  },
+  {
+    "name": "closedhand",
+    "fileName": "closedhand.sigml"
+  },
+  {
+    "name": "cloud",
+    "fileName": "cloud.sigml"
+  },
+  {
+    "name": "clouds",
+    "fileName": "clouds.sigml"
+  },
+  {
+    "name": "clown",
+    "fileName": "clown.sigml"
+  },
+  {
+    "name": "cobbler",
+    "fileName": "cobbler.sigml"
+  },
+  {
+    "name": "coefficient",
+    "fileName": "coefficient.sigml"
+  },
+  {
+    "name": "coin",
+    "fileName": "coin.sigml"
+  },
+  {
+    "name": "collect",
+    "fileName": "collect.sigml"
+  },
+  {
+    "name": "college",
+    "fileName": "college.sigml"
+  },
+  {
+    "name": "colour",
+    "fileName": "colour.sigml"
+  },
+  {
+    "name": "colours",
+    "fileName": "colours.sigml"
+  },
+  {
+    "name": "come",
+    "fileName": "come.sigml"
+  },
+  {
+    "name": "come_over",
+    "fileName": "come_over.sigml"
+  },
+  {
+    "name": "come_to_you",
+    "fileName": "come_to_you.sigml"
+  },
+  {
+    "name": "comeover",
+    "fileName": "comeover.sigml"
+  },
+  {
+    "name": "comes",
+    "fileName": "comes.sigml"
+  },
+  {
+    "name": "cometoyou",
+    "fileName": "cometoyou.sigml"
+  },
+  {
+    "name": "coming",
+    "fileName": "coming.sigml"
+  },
+  {
+    "name": "communicate",
+    "fileName": "communicate.sigml"
+  },
+  {
+    "name": "communication",
+    "fileName": "communication.sigml"
+  },
+  {
+    "name": "compare",
+    "fileName": "compare.sigml"
+  },
+  {
+    "name": "compass",
+    "fileName": "compass.sigml"
+  },
+  {
+    "name": "complain",
+    "fileName": "complain.sigml"
+  },
+  {
+    "name": "complaint",
+    "fileName": "complaint.sigml"
+  },
+  {
+    "name": "composite_carriage",
+    "fileName": "composite_carriage.sigml"
+  },
+  {
+    "name": "concentrate",
+    "fileName": "concentrate.sigml"
+  },
+  {
+    "name": "cone",
+    "fileName": "cone.sigml"
+  },
+  {
+    "name": "confuse",
+    "fileName": "confuse.sigml"
+  },
+  {
+    "name": "congratulations",
+    "fileName": "congratulations.sigml"
+  },
+  {
+    "name": "contact",
+    "fileName": "contact.sigml"
+  },
+  {
+    "name": "contact(pointhand)",
+    "fileName": "contact(pointhand).sigml"
+  },
+  {
+    "name": "continue",
+    "fileName": "continue.sigml"
+  },
+  {
+    "name": "control",
+    "fileName": "control.sigml"
+  },
+  {
+    "name": "cook",
+    "fileName": "cook.sigml"
+  },
+  {
+    "name": "coolie",
+    "fileName": "coolie.sigml"
+  },
+  {
+    "name": "copy",
+    "fileName": "copy.sigml"
+  },
+  {
+    "name": "copy1",
+    "fileName": "copy1.sigml"
+  },
+  {
+    "name": "corner",
+    "fileName": "corner.sigml"
+  },
+  {
+    "name": "correct",
+    "fileName": "correct.sigml"
+  },
+  {
+    "name": "council",
+    "fileName": "council.sigml"
+  },
+  {
+    "name": "count",
+    "fileName": "count.sigml"
+  },
+  {
+    "name": "cover",
+    "fileName": "cover.sigml"
+  },
+  {
+    "name": "crash",
+    "fileName": "crash.sigml"
+  },
+  {
+    "name": "cream",
+    "fileName": "cream.sigml"
+  },
+  {
+    "name": "cricket",
+    "fileName": "cricket.sigml"
+  },
+  {
+    "name": "criticize",
+    "fileName": "criticize.sigml"
+  },
+  {
+    "name": "crow",
+    "fileName": "crow.sigml"
+  },
+  {
+    "name": "cry",
+    "fileName": "cry.sigml"
+  },
+  {
+    "name": "cube",
+    "fileName": "cube.sigml"
+  },
+  {
+    "name": "cucumber",
+    "fileName": "cucumber.sigml"
+  },
+  {
+    "name": "cup",
+    "fileName": "cup.sigml"
+  },
+  {
+    "name": "curly_bracket",
+    "fileName": "curly_bracket.sigml"
+  },
+  {
+    "name": "cut",
+    "fileName": "cut.sigml"
+  },
+  {
+    "name": "cycle",
+    "fileName": "cycle.sigml"
+  },
+  {
+    "name": "dance",
+    "fileName": "dance.sigml"
+  },
+  {
+    "name": "dancer",
+    "fileName": "dancer.sigml"
+  },
+  {
+    "name": "dancing",
+    "fileName": "dancing.sigml"
+  },
+  {
+    "name": "date",
+    "fileName": "date.sigml"
+  },
+  {
+    "name": "day",
+    "fileName": "day.sigml"
+  },
+  {
+    "name": "day_after",
+    "fileName": "day_after.sigml"
+  },
+  {
+    "name": "day_before",
+    "fileName": "day_before.sigml"
+  },
+  {
+    "name": "deaf",
+    "fileName": "deaf.sigml"
+  },
+  {
+    "name": "decimal",
+    "fileName": "decimal.sigml"
+  },
+  {
+    "name": "decimal_place",
+    "fileName": "decimal_place.sigml"
+  },
+  {
+    "name": "decrease",
+    "fileName": "decrease.sigml"
+  },
+  {
+    "name": "degree",
+    "fileName": "degree.sigml"
+  },
+  {
+    "name": "delete",
+    "fileName": "delete.sigml"
+  },
+  {
+    "name": "dentist",
+    "fileName": "dentist.sigml"
+  },
+  {
+    "name": "dept",
+    "fileName": "dept.sigml"
+  },
+  {
+    "name": "desk",
+    "fileName": "desk.sigml"
+  },
+  {
+    "name": "detail",
+    "fileName": "detail.sigml"
+  },
+  {
+    "name": "develop",
+    "fileName": "develop.sigml"
+  },
+  {
+    "name": "differences",
+    "fileName": "differences.sigml"
+  },
+  {
+    "name": "different",
+    "fileName": "different.sigml"
+  },
+  {
+    "name": "difficult",
+    "fileName": "difficult.sigml"
+  },
+  {
+    "name": "discuss",
+    "fileName": "discuss.sigml"
+  },
+  {
+    "name": "dislike",
+    "fileName": "dislike.sigml"
+  },
+  {
+    "name": "distance",
+    "fileName": "distance.sigml"
+  },
+  {
+    "name": "divide",
+    "fileName": "divide.sigml"
+  },
+  {
+    "name": "do",
+    "fileName": "do.sigml"
+  },
+  {
+    "name": "doctor",
+    "fileName": "doctor.sigml"
+  },
+  {
+    "name": "doctor1",
+    "fileName": "doctor1.sigml"
+  },
+  {
+    "name": "doing",
+    "fileName": "doing.sigml"
+  },
+  {
+    "name": "donotunderstand",
+    "fileName": "donotunderstand.sigml"
+  },
+  {
+    "name": "down",
+    "fileName": "down.sigml"
+  },
+  {
+    "name": "draw",
+    "fileName": "draw.sigml"
+  },
+  {
+    "name": "dream",
+    "fileName": "dream.sigml"
+  },
+  {
+    "name": "drink",
+    "fileName": "drink.sigml"
+  },
+  {
+    "name": "drinking",
+    "fileName": "drinking.sigml"
+  },
+  {
+    "name": "duck",
+    "fileName": "duck.sigml"
+  },
+  {
+    "name": "duplicate",
+    "fileName": "duplicate.sigml"
+  },
+  {
+    "name": "duster",
+    "fileName": "duster.sigml"
+  },
+  {
+    "name": "easy",
+    "fileName": "easy.sigml"
+  },
+  {
+    "name": "eat",
+    "fileName": "eat.sigml"
+  },
+  {
+    "name": "education",
+    "fileName": "education.sigml"
+  },
+  {
+    "name": "educational_terms",
+    "fileName": "educational_terms.sigml"
+  },
+  {
+    "name": "educationalterms",
+    "fileName": "educationalterms.sigml"
+  },
+  {
+    "name": "eid",
+    "fileName": "eid.sigml"
+  },
+  {
+    "name": "eight",
+    "fileName": "eight.sigml"
+  },
+  {
+    "name": "eighteen",
+    "fileName": "eighteen.sigml"
+  },
+  {
+    "name": "eighthundred",
+    "fileName": "eighthundred.sigml"
+  },
+  {
+    "name": "eightoclock",
+    "fileName": "eightoclock.sigml"
+  },
+  {
+    "name": "electrician",
+    "fileName": "electrician.sigml"
+  },
+  {
+    "name": "electricity",
+    "fileName": "electricity.sigml"
+  },
+  {
+    "name": "eleven",
+    "fileName": "eleven.sigml"
+  },
+  {
+    "name": "elevenoclock",
+    "fileName": "elevenoclock.sigml"
+  },
+  {
+    "name": "email",
+    "fileName": "email.sigml"
+  },
+  {
+    "name": "embroidry",
+    "fileName": "embroidry.sigml"
+  },
+  {
+    "name": "empty",
+    "fileName": "empty.sigml"
+  },
+  {
+    "name": "encourage",
+    "fileName": "encourage.sigml"
+  },
+  {
+    "name": "engine",
+    "fileName": "engine.sigml"
+  },
+  {
+    "name": "engineer",
+    "fileName": "engineer.sigml"
+  },
+  {
+    "name": "england",
+    "fileName": "england.sigml"
+  },
+  {
+    "name": "english",
+    "fileName": "english.sigml"
+  },
+  {
+    "name": "enjoy",
+    "fileName": "enjoy.sigml"
+  },
+  {
+    "name": "enter",
+    "fileName": "enter.sigml"
+  },
+  {
+    "name": "equal",
+    "fileName": "equal.sigml"
+  },
+  {
+    "name": "equator",
+    "fileName": "equator.sigml"
+  },
+  {
+    "name": "eraser",
+    "fileName": "eraser.sigml"
+  },
+  {
+    "name": "escape",
+    "fileName": "escape.sigml"
+  },
+  {
+    "name": "essay",
+    "fileName": "essay.sigml"
+  },
+  {
+    "name": "evening",
+    "fileName": "evening.sigml"
+  },
+  {
+    "name": "every",
+    "fileName": "every.sigml"
+  },
+  {
+    "name": "everyday",
+    "fileName": "everyday.sigml"
+  },
+  {
+    "name": "everyyear",
+    "fileName": "everyyear.sigml"
+  },
+  {
+    "name": "exam",
+    "fileName": "exam.sigml"
+  },
+  {
+    "name": "examination",
+    "fileName": "examination.sigml"
+  },
+  {
+    "name": "examine",
+    "fileName": "examine.sigml"
+  },
+  {
+    "name": "example",
+    "fileName": "example.sigml"
+  },
+  {
+    "name": "except_for",
+    "fileName": "except_for.sigml"
+  },
+  {
+    "name": "exercise",
+    "fileName": "exercise.sigml"
+  },
+  {
+    "name": "expensive",
+    "fileName": "expensive.sigml"
+  },
+  {
+    "name": "experience",
+    "fileName": "experience.sigml"
+  },
+  {
+    "name": "extra",
+    "fileName": "extra.sigml"
+  },
+  {
+    "name": "eyelash",
+    "fileName": "eyelash.sigml"
+  },
+  {
+    "name": "factory",
+    "fileName": "factory.sigml"
+  },
+  {
+    "name": "fail-loser",
+    "fileName": "fail-loser.sigml"
+  },
+  {
+    "name": "fall",
+    "fileName": "fall.sigml"
+  },
+  {
+    "name": "fan",
+    "fileName": "fan.sigml"
+  },
+  {
+    "name": "far",
+    "fileName": "far.sigml"
+  },
+  {
+    "name": "farmer",
+    "fileName": "farmer.sigml"
+  },
+  {
+    "name": "fat",
+    "fileName": "fat.sigml"
+  },
+  {
+    "name": "father",
+    "fileName": "father.sigml"
+  },
+  {
+    "name": "fear",
+    "fileName": "fear.sigml"
+  },
+  {
+    "name": "february",
+    "fileName": "february.sigml"
+  },
+  {
+    "name": "feed",
+    "fileName": "feed.sigml"
+  },
+  {
+    "name": "feel",
+    "fileName": "feel.sigml"
+  },
+  {
+    "name": "fever",
+    "fileName": "fever.sigml"
+  },
+  {
+    "name": "few",
+    "fileName": "few.sigml"
+  },
+  {
+    "name": "fifteen",
+    "fileName": "fifteen.sigml"
+  },
+  {
+    "name": "fight",
+    "fileName": "fight.sigml"
+  },
+  {
+    "name": "fill",
+    "fileName": "fill.sigml"
+  },
+  {
+    "name": "fill-in",
+    "fileName": "fill-in.sigml"
+  },
+  {
+    "name": "find",
+    "fileName": "find.sigml"
+  },
+  {
+    "name": "fingerspell",
+    "fileName": "fingerspell.sigml"
+  },
+  {
+    "name": "finish",
+    "fileName": "finish.sigml"
+  },
+  {
+    "name": "first",
+    "fileName": "first.sigml"
+  },
+  {
+    "name": "five",
+    "fileName": "five.sigml"
+  },
+  {
+    "name": "fivehundred",
+    "fileName": "fivehundred.sigml"
+  },
+  {
+    "name": "fiveoclock",
+    "fileName": "fiveoclock.sigml"
+  },
+  {
+    "name": "flood",
+    "fileName": "flood.sigml"
+  },
+  {
+    "name": "floor",
+    "fileName": "floor.sigml"
+  },
+  {
+    "name": "fly",
+    "fileName": "fly.sigml"
+  },
+  {
+    "name": "food",
+    "fileName": "food.sigml"
+  },
+  {
+    "name": "foot_(measurement)",
+    "fileName": "foot_(measurement).sigml"
+  },
+  {
+    "name": "football",
+    "fileName": "football.sigml"
+  },
+  {
+    "name": "foots",
+    "fileName": "foots.sigml"
+  },
+  {
+    "name": "for",
+    "fileName": "for.sigml"
+  },
+  {
+    "name": "for_that",
+    "fileName": "for_that.sigml"
+  },
+  {
+    "name": "forever",
+    "fileName": "forever.sigml"
+  },
+  {
+    "name": "forgive",
+    "fileName": "forgive.sigml"
+  },
+  {
+    "name": "form",
+    "fileName": "form.sigml"
+  },
+  {
+    "name": "four",
+    "fileName": "four.sigml"
+  },
+  {
+    "name": "fourhundred",
+    "fileName": "fourhundred.sigml"
+  },
+  {
+    "name": "fouroclock",
+    "fileName": "fouroclock.sigml"
+  },
+  {
+    "name": "fourteen",
+    "fileName": "fourteen.sigml"
+  },
+  {
+    "name": "france",
+    "fileName": "france.sigml"
+  },
+  {
+    "name": "friday",
+    "fileName": "friday.sigml"
+  },
+  {
+    "name": "from",
+    "fileName": "from.sigml"
+  },
+  {
+    "name": "fruit",
+    "fileName": "fruit.sigml"
+  },
+  {
+    "name": "gardner",
+    "fileName": "gardner.sigml"
+  },
+  {
+    "name": "germany",
+    "fileName": "germany.sigml"
+  },
+  {
+    "name": "get",
+    "fileName": "get.sigml"
+  },
+  {
+    "name": "gets",
+    "fileName": "gets.sigml"
+  },
+  {
+    "name": "getting",
+    "fileName": "getting.sigml"
+  },
+  {
+    "name": "ginger",
+    "fileName": "ginger.sigml"
+  },
+  {
+    "name": "girl",
+    "fileName": "girl.sigml"
+  },
+  {
+    "name": "give-form",
+    "fileName": "give-form.sigml"
+  },
+  {
+    "name": "give-me",
+    "fileName": "give-me.sigml"
+  },
+  {
+    "name": "glass",
+    "fileName": "glass.sigml"
+  },
+  {
+    "name": "go",
+    "fileName": "go.sigml"
+  },
+  {
+    "name": "go-with-you",
+    "fileName": "go-with-you.sigml"
+  },
+  {
+    "name": "going",
+    "fileName": "going.sigml"
+  },
+  {
+    "name": "gold",
+    "fileName": "gold.sigml"
+  },
+  {
+    "name": "gone",
+    "fileName": "gone.sigml"
+  },
+  {
+    "name": "good",
+    "fileName": "good.sigml"
+  },
+  {
+    "name": "got",
+    "fileName": "got.sigml"
+  },
+  {
+    "name": "greece",
+    "fileName": "greece.sigml"
+  },
+  {
+    "name": "green",
+    "fileName": "green.sigml"
+  },
+  {
+    "name": "grey",
+    "fileName": "grey.sigml"
+  },
+  {
+    "name": "h_eat",
+    "fileName": "h_eat.sigml"
+  },
+  {
+    "name": "half-past",
+    "fileName": "half-past.sigml"
+  },
+  {
+    "name": "halfpast",
+    "fileName": "halfpast.sigml"
+  },
+  {
+    "name": "hand",
+    "fileName": "hand.sigml"
+  },
+  {
+    "name": "hang",
+    "fileName": "hang.sigml"
+  },
+  {
+    "name": "hard_work",
+    "fileName": "hard_work.sigml"
+  },
+  {
+    "name": "hard_working",
+    "fileName": "hard_working.sigml"
+  },
+  {
+    "name": "hardofhearing",
+    "fileName": "hardofhearing.sigml"
+  },
+  {
+    "name": "havealook",
+    "fileName": "havealook.sigml"
+  },
+  {
+    "name": "hbody",
+    "fileName": "hbody.sigml"
+  },
+  {
+    "name": "hcarpenter",
+    "fileName": "hcarpenter.sigml"
+  },
+  {
+    "name": "hchild",
+    "fileName": "hchild.sigml"
+  },
+  {
+    "name": "hclosedhand",
+    "fileName": "hclosedhand.sigml"
+  },
+  {
+    "name": "hcook",
+    "fileName": "hcook.sigml"
+  },
+  {
+    "name": "hdesk",
+    "fileName": "hdesk.sigml"
+  },
+  {
+    "name": "he",
+    "fileName": "he.sigml"
+  },
+  {
+    "name": "head",
+    "fileName": "head.sigml"
+  },
+  {
+    "name": "health",
+    "fileName": "health.sigml"
+  },
+  {
+    "name": "hearing",
+    "fileName": "hearing.sigml"
+  },
+  {
+    "name": "heart_beat",
+    "fileName": "heart_beat.sigml"
+  },
+  {
+    "name": "heartbeat",
+    "fileName": "heartbeat.sigml"
+  },
+  {
+    "name": "height",
+    "fileName": "height.sigml"
+  },
+  {
+    "name": "hello",
+    "fileName": "hello.sigml"
+  },
+  {
+    "name": "help-me",
+    "fileName": "help-me.sigml"
+  },
+  {
+    "name": "help-you",
+    "fileName": "help-you.sigml"
+  },
+  {
+    "name": "her",
+    "fileName": "her.sigml"
+  },
+  {
+    "name": "here",
+    "fileName": "here.sigml"
+  },
+  {
+    "name": "hers",
+    "fileName": "hers.sigml"
+  },
+  {
+    "name": "hfear",
+    "fileName": "hfear.sigml"
+  },
+  {
+    "name": "hfight",
+    "fileName": "hfight.sigml"
+  },
+  {
+    "name": "hfive",
+    "fileName": "hfive.sigml"
+  },
+  {
+    "name": "hfour",
+    "fileName": "hfour.sigml"
+  },
+  {
+    "name": "hhappy",
+    "fileName": "hhappy.sigml"
+  },
+  {
+    "name": "hhere",
+    "fileName": "hhere.sigml"
+  },
+  {
+    "name": "hhome",
+    "fileName": "hhome.sigml"
+  },
+  {
+    "name": "hill",
+    "fileName": "hill.sigml"
+  },
+  {
+    "name": "him",
+    "fileName": "him.sigml"
+  },
+  {
+    "name": "himself",
+    "fileName": "himself.sigml"
+  },
+  {
+    "name": "hindi",
+    "fileName": "hindi.sigml"
+  },
+  {
+    "name": "hindu",
+    "fileName": "hindu.sigml"
+  },
+  {
+    "name": "hire",
+    "fileName": "hire.sigml"
+  },
+  {
+    "name": "his",
+    "fileName": "his.sigml"
+  },
+  {
+    "name": "hlike",
+    "fileName": "hlike.sigml"
+  },
+  {
+    "name": "hme",
+    "fileName": "hme.sigml"
+  },
+  {
+    "name": "hmind",
+    "fileName": "hmind.sigml"
+  },
+  {
+    "name": "hmore",
+    "fileName": "hmore.sigml"
+  },
+  {
+    "name": "hmother",
+    "fileName": "hmother.sigml"
+  },
+  {
+    "name": "hnot",
+    "fileName": "hnot.sigml"
+  },
+  {
+    "name": "hnow",
+    "fileName": "hnow.sigml"
+  },
+  {
+    "name": "hockey",
+    "fileName": "hockey.sigml"
+  },
+  {
+    "name": "hold",
+    "fileName": "hold.sigml"
+  },
+  {
+    "name": "holland",
+    "fileName": "holland.sigml"
+  },
+  {
+    "name": "home",
+    "fileName": "home.sigml"
+  },
+  {
+    "name": "hone",
+    "fileName": "hone.sigml"
+  },
+  {
+    "name": "hour",
+    "fileName": "hour.sigml"
+  },
+  {
+    "name": "hours",
+    "fileName": "hours.sigml"
+  },
+  {
+    "name": "house",
+    "fileName": "house.sigml"
+  },
+  {
+    "name": "how",
+    "fileName": "how.sigml"
+  },
+  {
+    "name": "how_many",
+    "fileName": "how_many.sigml"
+  },
+  {
+    "name": "how_much",
+    "fileName": "how_much.sigml"
+  },
+  {
+    "name": "howareyou",
+    "fileName": "howareyou.sigml"
+  },
+  {
+    "name": "howlong_",
+    "fileName": "howlong_.sigml"
+  },
+  {
+    "name": "howmany",
+    "fileName": "howmany.sigml"
+  },
+  {
+    "name": "howmuch",
+    "fileName": "howmuch.sigml"
+  },
+  {
+    "name": "hpen",
+    "fileName": "hpen.sigml"
+  },
+  {
+    "name": "hpower",
+    "fileName": "hpower.sigml"
+  },
+  {
+    "name": "hprotion",
+    "fileName": "hprotion.sigml"
+  },
+  {
+    "name": "hread",
+    "fileName": "hread.sigml"
+  },
+  {
+    "name": "hroundhand",
+    "fileName": "hroundhand.sigml"
+  },
+  {
+    "name": "hrs",
+    "fileName": "hrs.sigml"
+  },
+  {
+    "name": "hrun",
+    "fileName": "hrun.sigml"
+  },
+  {
+    "name": "hsee",
+    "fileName": "hsee.sigml"
+  },
+  {
+    "name": "hsemiroundhand",
+    "fileName": "hsemiroundhand.sigml"
+  },
+  {
+    "name": "hsemiroundhandu",
+    "fileName": "hsemiroundhandu.sigml"
+  },
+  {
+    "name": "hseven",
+    "fileName": "hseven.sigml"
+  },
+  {
+    "name": "hsilence",
+    "fileName": "hsilence.sigml"
+  },
+  {
+    "name": "hsix",
+    "fileName": "hsix.sigml"
+  },
+  {
+    "name": "htap",
+    "fileName": "htap.sigml"
+  },
+  {
+    "name": "hten",
+    "fileName": "hten.sigml"
+  },
+  {
+    "name": "hthat",
+    "fileName": "hthat.sigml"
+  },
+  {
+    "name": "hthese",
+    "fileName": "hthese.sigml"
+  },
+  {
+    "name": "hthis",
+    "fileName": "hthis.sigml"
+  },
+  {
+    "name": "hthree",
+    "fileName": "hthree.sigml"
+  },
+  {
+    "name": "htight",
+    "fileName": "htight.sigml"
+  },
+  {
+    "name": "htub",
+    "fileName": "htub.sigml"
+  },
+  {
+    "name": "htwo",
+    "fileName": "htwo.sigml"
+  },
+  {
+    "name": "hun",
+    "fileName": "hun.sigml"
+  },
+  {
+    "name": "hundred",
+    "fileName": "hundred.sigml"
+  },
+  {
+    "name": "hungry",
+    "fileName": "hungry.sigml"
+  },
+  {
+    "name": "hurt",
+    "fileName": "hurt.sigml"
+  },
+  {
+    "name": "hvan",
+    "fileName": "hvan.sigml"
+  },
+  {
+    "name": "hwater",
+    "fileName": "hwater.sigml"
+  },
+  {
+    "name": "ice",
+    "fileName": "ice.sigml"
+  },
+  {
+    "name": "idea",
+    "fileName": "idea.sigml"
+  },
+  {
+    "name": "ignore",
+    "fileName": "ignore.sigml"
+  },
+  {
+    "name": "ill",
+    "fileName": "ill.sigml"
+  },
+  {
+    "name": "important",
+    "fileName": "important.sigml"
+  },
+  {
+    "name": "impossible",
+    "fileName": "impossible.sigml"
+  },
+  {
+    "name": "improve",
+    "fileName": "improve.sigml"
+  },
+  {
+    "name": "in",
+    "fileName": "in.sigml"
+  },
+  {
+    "name": "increase",
+    "fileName": "increase.sigml"
+  },
+  {
+    "name": "informus",
+    "fileName": "informus.sigml"
+  },
+  {
+    "name": "infrontof",
+    "fileName": "infrontof.sigml"
+  },
+  {
+    "name": "injection",
+    "fileName": "injection.sigml"
+  },
+  {
+    "name": "intelligent",
+    "fileName": "intelligent.sigml"
+  },
+  {
+    "name": "interesting",
+    "fileName": "interesting.sigml"
+  },
+  {
+    "name": "internet",
+    "fileName": "internet.sigml"
+  },
+  {
+    "name": "interpreter",
+    "fileName": "interpreter.sigml"
+  },
+  {
+    "name": "issues",
+    "fileName": "issues.sigml"
+  },
+  {
+    "name": "it",
+    "fileName": "it.sigml"
+  },
+  {
+    "name": "iunderstand",
+    "fileName": "iunderstand.sigml"
+  },
+  {
+    "name": "ix-down",
+    "fileName": "ix-down.sigml"
+  },
+  {
+    "name": "ix-left",
+    "fileName": "ix-left.sigml"
+  },
+  {
+    "name": "jain",
+    "fileName": "jain.sigml"
+  },
+  {
+    "name": "january",
+    "fileName": "january.sigml"
+  },
+  {
+    "name": "jealous",
+    "fileName": "jealous.sigml"
+  },
+  {
+    "name": "jeep",
+    "fileName": "jeep.sigml"
+  },
+  {
+    "name": "jesus",
+    "fileName": "jesus.sigml"
+  },
+  {
+    "name": "join",
+    "fileName": "join.sigml"
+  },
+  {
+    "name": "jug",
+    "fileName": "jug.sigml"
+  },
+  {
+    "name": "jump",
+    "fileName": "jump.sigml"
+  },
+  {
+    "name": "june",
+    "fileName": "june.sigml"
+  },
+  {
+    "name": "justamoment",
+    "fileName": "justamoment.sigml"
+  },
+  {
+    "name": "kannada",
+    "fileName": "kannada.sigml"
+  },
+  {
+    "name": "kanpur",
+    "fileName": "kanpur.sigml"
+  },
+  {
+    "name": "karate",
+    "fileName": "karate.sigml"
+  },
+  {
+    "name": "keep",
+    "fileName": "keep.sigml"
+  },
+  {
+    "name": "keeps",
+    "fileName": "keeps.sigml"
+  },
+  {
+    "name": "kerala",
+    "fileName": "kerala.sigml"
+  },
+  {
+    "name": "key",
+    "fileName": "key.sigml"
+  },
+  {
+    "name": "keyboard",
+    "fileName": "keyboard.sigml"
+  },
+  {
+    "name": "kfist",
+    "fileName": "kfist.sigml"
+  },
+  {
+    "name": "kfive",
+    "fileName": "kfive.sigml"
+  },
+  {
+    "name": "kfour",
+    "fileName": "kfour.sigml"
+  },
+  {
+    "name": "kilometer",
+    "fileName": "kilometer.sigml"
+  },
+  {
+    "name": "kite",
+    "fileName": "kite.sigml"
+  },
+  {
+    "name": "kktwo",
+    "fileName": "kktwo.sigml"
+  },
+  {
+    "name": "kme",
+    "fileName": "kme.sigml"
+  },
+  {
+    "name": "know",
+    "fileName": "know.sigml"
+  },
+  {
+    "name": "knowledge",
+    "fileName": "knowledge.sigml"
+  },
+  {
+    "name": "knowwell",
+    "fileName": "knowwell.sigml"
+  },
+  {
+    "name": "koli",
+    "fileName": "koli.sigml"
+  },
+  {
+    "name": "kone",
+    "fileName": "kone.sigml"
+  },
+  {
+    "name": "kroundhand",
+    "fileName": "kroundhand.sigml"
+  },
+  {
+    "name": "kthree",
+    "fileName": "kthree.sigml"
+  },
+  {
+    "name": "ktwo",
+    "fileName": "ktwo.sigml"
+  },
+  {
+    "name": "la",
+    "fileName": "la.sigml"
+  },
+  {
+    "name": "laboratory",
+    "fileName": "laboratory.sigml"
+  },
+  {
+    "name": "ladder",
+    "fileName": "ladder.sigml"
+  },
+  {
+    "name": "lakhnow",
+    "fileName": "lakhnow.sigml"
+  },
+  {
+    "name": "languages",
+    "fileName": "languages.sigml"
+  },
+  {
+    "name": "late",
+    "fileName": "late.sigml"
+  },
+  {
+    "name": "later",
+    "fileName": "later.sigml"
+  },
+  {
+    "name": "laugh",
+    "fileName": "laugh.sigml"
+  },
+  {
+    "name": "lead",
+    "fileName": "lead.sigml"
+  },
+  {
+    "name": "leafy-vegetables",
+    "fileName": "leafy-vegetables.sigml"
+  },
+  {
+    "name": "leak",
+    "fileName": "leak.sigml"
+  },
+  {
+    "name": "learn",
+    "fileName": "learn.sigml"
+  },
+  {
+    "name": "leave",
+    "fileName": "leave.sigml"
+  },
+  {
+    "name": "lecturer",
+    "fileName": "lecturer.sigml"
+  },
+  {
+    "name": "left",
+    "fileName": "left.sigml"
+  },
+  {
+    "name": "lend",
+    "fileName": "lend.sigml"
+  },
+  {
+    "name": "less",
+    "fileName": "less.sigml"
+  },
+  {
+    "name": "letmeknow",
+    "fileName": "letmeknow.sigml"
+  },
+  {
+    "name": "letter",
+    "fileName": "letter.sigml"
+  },
+  {
+    "name": "level",
+    "fileName": "level.sigml"
+  },
+  {
+    "name": "library",
+    "fileName": "library.sigml"
+  },
+  {
+    "name": "lick",
+    "fileName": "lick.sigml"
+  },
+  {
+    "name": "lie",
+    "fileName": "lie.sigml"
+  },
+  {
+    "name": "light-house",
+    "fileName": "light-house.sigml"
+  },
+  {
+    "name": "like",
+    "fileName": "like.sigml"
+  },
+  {
+    "name": "liked",
+    "fileName": "liked.sigml"
+  },
+  {
+    "name": "line",
+    "fileName": "line.sigml"
+  },
+  {
+    "name": "link",
+    "fileName": "link.sigml"
+  },
+  {
+    "name": "list",
+    "fileName": "list.sigml"
+  },
+  {
+    "name": "litter",
+    "fileName": "litter.sigml"
+  },
+  {
+    "name": "little",
+    "fileName": "little.sigml"
+  },
+  {
+    "name": "little-fingerhand",
+    "fileName": "little-fingerhand.sigml"
+  },
+  {
+    "name": "livewhere",
+    "fileName": "livewhere.sigml"
+  },
+  {
+    "name": "located",
+    "fileName": "located.sigml"
+  },
+  {
+    "name": "lock",
+    "fileName": "lock.sigml"
+  },
+  {
+    "name": "long",
+    "fileName": "long.sigml"
+  },
+  {
+    "name": "lorry",
+    "fileName": "lorry.sigml"
+  },
+  {
+    "name": "lose",
+    "fileName": "lose.sigml"
+  },
+  {
+    "name": "loss",
+    "fileName": "loss.sigml"
+  },
+  {
+    "name": "loss1",
+    "fileName": "loss1.sigml"
+  },
+  {
+    "name": "lotus",
+    "fileName": "lotus.sigml"
+  },
+  {
+    "name": "loud",
+    "fileName": "loud.sigml"
+  },
+  {
+    "name": "love",
+    "fileName": "love.sigml"
+  },
+  {
+    "name": "make",
+    "fileName": "make.sigml"
+  },
+  {
+    "name": "man",
+    "fileName": "man.sigml"
+  },
+  {
+    "name": "mango",
+    "fileName": "mango.sigml"
+  },
+  {
+    "name": "manner",
+    "fileName": "manner.sigml"
+  },
+  {
+    "name": "many",
+    "fileName": "many.sigml"
+  },
+  {
+    "name": "march",
+    "fileName": "march.sigml"
+  },
+  {
+    "name": "mark",
+    "fileName": "mark.sigml"
+  },
+  {
+    "name": "market",
+    "fileName": "market.sigml"
+  },
+  {
+    "name": "marks",
+    "fileName": "marks.sigml"
+  },
+  {
+    "name": "married",
+    "fileName": "married.sigml"
+  },
+  {
+    "name": "mason",
+    "fileName": "mason.sigml"
+  },
+  {
+    "name": "may",
+    "fileName": "may.sigml"
+  },
+  {
+    "name": "maybe",
+    "fileName": "maybe.sigml"
+  },
+  {
+    "name": "me",
+    "fileName": "me.sigml"
+  },
+  {
+    "name": "meal",
+    "fileName": "meal.sigml"
+  },
+  {
+    "name": "medicine",
+    "fileName": "medicine.sigml"
+  },
+  {
+    "name": "meet",
+    "fileName": "meet.sigml"
+  },
+  {
+    "name": "meets",
+    "fileName": "meets.sigml"
+  },
+  {
+    "name": "mess",
+    "fileName": "mess.sigml"
+  },
+  {
+    "name": "method",
+    "fileName": "method.sigml"
+  },
+  {
+    "name": "milkman",
+    "fileName": "milkman.sigml"
+  },
+  {
+    "name": "mind",
+    "fileName": "mind.sigml"
+  },
+  {
+    "name": "minicom",
+    "fileName": "minicom.sigml"
+  },
+  {
+    "name": "minute",
+    "fileName": "minute.sigml"
+  },
+  {
+    "name": "mistake",
+    "fileName": "mistake.sigml"
+  },
+  {
+    "name": "monday",
+    "fileName": "monday.sigml"
+  },
+  {
+    "name": "money",
+    "fileName": "money.sigml"
+  },
+  {
+    "name": "more",
+    "fileName": "more.sigml"
+  },
+  {
+    "name": "morning",
+    "fileName": "morning.sigml"
+  },
+  {
+    "name": "mother",
+    "fileName": "mother.sigml"
+  },
+  {
+    "name": "motorcycle",
+    "fileName": "motorcycle.sigml"
+  },
+  {
+    "name": "mumbai",
+    "fileName": "mumbai.sigml"
+  },
+  {
+    "name": "my",
+    "fileName": "my.sigml"
+  },
+  {
+    "name": "n-n(norfolk)",
+    "fileName": "n-n(norfolk).sigml"
+  },
+  {
+    "name": "nagpur",
+    "fileName": "nagpur.sigml"
+  },
+  {
+    "name": "nails",
+    "fileName": "nails.sigml"
+  },
+  {
+    "name": "namaste",
+    "fileName": "namaste.sigml"
+  },
+  {
+    "name": "name",
+    "fileName": "name.sigml"
+  },
+  {
+    "name": "namewhat",
+    "fileName": "namewhat.sigml"
+  },
+  {
+    "name": "national",
+    "fileName": "national.sigml"
+  },
+  {
+    "name": "near",
+    "fileName": "near.sigml"
+  },
+  {
+    "name": "need",
+    "fileName": "need.sigml"
+  },
+  {
+    "name": "needle",
+    "fileName": "needle.sigml"
+  },
+  {
+    "name": "never",
+    "fileName": "never.sigml"
+  },
+  {
+    "name": "new",
+    "fileName": "new.sigml"
+  },
+  {
+    "name": "news",
+    "fileName": "news.sigml"
+  },
+  {
+    "name": "next",
+    "fileName": "next.sigml"
+  },
+  {
+    "name": "nextyear",
+    "fileName": "nextyear.sigml"
+  },
+  {
+    "name": "nice",
+    "fileName": "nice.sigml"
+  },
+  {
+    "name": "night",
+    "fileName": "night.sigml"
+  },
+  {
+    "name": "nine",
+    "fileName": "nine.sigml"
+  },
+  {
+    "name": "ninehundred",
+    "fileName": "ninehundred.sigml"
+  },
+  {
+    "name": "nineoclock",
+    "fileName": "nineoclock.sigml"
+  },
+  {
+    "name": "nineteen",
+    "fileName": "nineteen.sigml"
+  },
+  {
+    "name": "no",
+    "fileName": "no.sigml"
+  },
+  {
+    "name": "none",
+    "fileName": "none.sigml"
+  },
+  {
+    "name": "north-pole",
+    "fileName": "north-pole.sigml"
+  },
+  {
+    "name": "not",
+    "fileName": "not.sigml"
+  },
+  {
+    "name": "note-book",
+    "fileName": "note-book.sigml"
+  },
+  {
+    "name": "note-money",
+    "fileName": "note-money.sigml"
+  },
+  {
+    "name": "notebook",
+    "fileName": "notebook.sigml"
+  },
+  {
+    "name": "now",
+    "fileName": "now.sigml"
+  },
+  {
+    "name": "number",
+    "fileName": "number.sigml"
+  },
+  {
+    "name": "nurse",
+    "fileName": "nurse.sigml"
+  },
+  {
+    "name": "nurses",
+    "fileName": "nurses.sigml"
+  },
+  {
+    "name": "objects",
+    "fileName": "objects.sigml"
+  },
+  {
+    "name": "of",
+    "fileName": "of.sigml"
+  },
+  {
+    "name": "offer",
+    "fileName": "offer.sigml"
+  },
+  {
+    "name": "office",
+    "fileName": "office.sigml"
+  },
+  {
+    "name": "officer",
+    "fileName": "officer.sigml"
+  },
+  {
+    "name": "often",
+    "fileName": "often.sigml"
+  },
+  {
+    "name": "old",
+    "fileName": "old.sigml"
+  },
+  {
+    "name": "olympics",
+    "fileName": "olympics.sigml"
+  },
+  {
+    "name": "on",
+    "fileName": "on.sigml"
+  },
+  {
+    "name": "one",
+    "fileName": "one.sigml"
+  },
+  {
+    "name": "onehundred",
+    "fileName": "onehundred.sigml"
+  },
+  {
+    "name": "oneoclock",
+    "fileName": "oneoclock.sigml"
+  },
+  {
+    "name": "onerupee",
+    "fileName": "onerupee.sigml"
+  },
+  {
+    "name": "onetoone",
+    "fileName": "onetoone.sigml"
+  },
+  {
+    "name": "onion",
+    "fileName": "onion.sigml"
+  },
+  {
+    "name": "ooty",
+    "fileName": "ooty.sigml"
+  },
+  {
+    "name": "open",
+    "fileName": "open.sigml"
+  },
+  {
+    "name": "opendoors",
+    "fileName": "opendoors.sigml"
+  },
+  {
+    "name": "openhand",
+    "fileName": "openhand.sigml"
+  },
+  {
+    "name": "opens",
+    "fileName": "opens.sigml"
+  },
+  {
+    "name": "operation",
+    "fileName": "operation.sigml"
+  },
+  {
+    "name": "opraise-clap(deaf)",
+    "fileName": "opraise-clap(deaf).sigml"
+  },
+  {
+    "name": "or",
+    "fileName": "or.sigml"
+  },
+  {
+    "name": "orange",
+    "fileName": "orange.sigml"
+  },
+  {
+    "name": "order",
+    "fileName": "order.sigml"
+  },
+  {
+    "name": "organise",
+    "fileName": "organise.sigml"
+  },
+  {
+    "name": "oriya",
+    "fileName": "oriya.sigml"
+  },
+  {
+    "name": "other",
+    "fileName": "other.sigml"
+  },
+  {
+    "name": "our",
+    "fileName": "our.sigml"
+  },
+  {
+    "name": "ourself",
+    "fileName": "ourself.sigml"
+  },
+  {
+    "name": "out",
+    "fileName": "out.sigml"
+  },
+  {
+    "name": "over",
+    "fileName": "over.sigml"
+  },
+  {
+    "name": "own",
+    "fileName": "own.sigml"
+  },
+  {
+    "name": "page",
+    "fileName": "page.sigml"
+  },
+  {
+    "name": "paper",
+    "fileName": "paper.sigml"
+  },
+  {
+    "name": "paragraph",
+    "fileName": "paragraph.sigml"
+  },
+  {
+    "name": "paranoid",
+    "fileName": "paranoid.sigml"
+  },
+  {
+    "name": "parts",
+    "fileName": "parts.sigml"
+  },
+  {
+    "name": "pass",
+    "fileName": "pass.sigml"
+  },
+  {
+    "name": "passed",
+    "fileName": "passed.sigml"
+  },
+  {
+    "name": "past",
+    "fileName": "past.sigml"
+  },
+  {
+    "name": "pay",
+    "fileName": "pay.sigml"
+  },
+  {
+    "name": "pay-me",
+    "fileName": "pay-me.sigml"
+  },
+  {
+    "name": "peas",
+    "fileName": "peas.sigml"
+  },
+  {
+    "name": "pen",
+    "fileName": "pen.sigml"
+  },
+  {
+    "name": "pencil",
+    "fileName": "pencil.sigml"
+  },
+  {
+    "name": "pencils",
+    "fileName": "pencils.sigml"
+  },
+  {
+    "name": "pens",
+    "fileName": "pens.sigml"
+  },
+  {
+    "name": "person",
+    "fileName": "person.sigml"
+  },
+  {
+    "name": "phone",
+    "fileName": "phone.sigml"
+  },
+  {
+    "name": "phoneme",
+    "fileName": "phoneme.sigml"
+  },
+  {
+    "name": "phoneyou",
+    "fileName": "phoneyou.sigml"
+  },
+  {
+    "name": "pick",
+    "fileName": "pick.sigml"
+  },
+  {
+    "name": "picture",
+    "fileName": "picture.sigml"
+  },
+  {
+    "name": "pink",
+    "fileName": "pink.sigml"
+  },
+  {
+    "name": "pipe",
+    "fileName": "pipe.sigml"
+  },
+  {
+    "name": "place",
+    "fileName": "place.sigml"
+  },
+  {
+    "name": "places",
+    "fileName": "places.sigml"
+  },
+  {
+    "name": "plan",
+    "fileName": "plan.sigml"
+  },
+  {
+    "name": "play",
+    "fileName": "play.sigml"
+  },
+  {
+    "name": "playing",
+    "fileName": "playing.sigml"
+  },
+  {
+    "name": "please",
+    "fileName": "please.sigml"
+  },
+  {
+    "name": "plural",
+    "fileName": "plural.sigml"
+  },
+  {
+    "name": "pointing",
+    "fileName": "pointing.sigml"
+  },
+  {
+    "name": "pooryou",
+    "fileName": "pooryou.sigml"
+  },
+  {
+    "name": "possible",
+    "fileName": "possible.sigml"
+  },
+  {
+    "name": "post_office",
+    "fileName": "post_office.sigml"
+  },
+  {
+    "name": "pot",
+    "fileName": "pot.sigml"
+  },
+  {
+    "name": "potatoes",
+    "fileName": "potatoes.sigml"
+  },
+  {
+    "name": "pound",
+    "fileName": "pound.sigml"
+  },
+  {
+    "name": "power",
+    "fileName": "power.sigml"
+  },
+  {
+    "name": "practice",
+    "fileName": "practice.sigml"
+  },
+  {
+    "name": "prayer",
+    "fileName": "prayer.sigml"
+  },
+  {
+    "name": "pretend",
+    "fileName": "pretend.sigml"
+  },
+  {
+    "name": "print",
+    "fileName": "print.sigml"
+  },
+  {
+    "name": "problem",
+    "fileName": "problem.sigml"
+  },
+  {
+    "name": "procedure",
+    "fileName": "procedure.sigml"
+  },
+  {
+    "name": "profit",
+    "fileName": "profit.sigml"
+  },
+  {
+    "name": "provide",
+    "fileName": "provide.sigml"
+  },
+  {
+    "name": "punjabi",
+    "fileName": "punjabi.sigml"
+  },
+  {
+    "name": "purple",
+    "fileName": "purple.sigml"
+  },
+  {
+    "name": "put",
+    "fileName": "put.sigml"
+  },
+  {
+    "name": "put-on-letter",
+    "fileName": "put-on-letter.sigml"
+  },
+  {
+    "name": "putonleft",
+    "fileName": "putonleft.sigml"
+  },
+  {
+    "name": "quarterpast",
+    "fileName": "quarterpast.sigml"
+  },
+  {
+    "name": "quarterto",
+    "fileName": "quarterto.sigml"
+  },
+  {
+    "name": "question",
+    "fileName": "question.sigml"
+  },
+  {
+    "name": "questionnaire",
+    "fileName": "questionnaire.sigml"
+  },
+  {
+    "name": "questions",
+    "fileName": "questions.sigml"
+  },
+  {
+    "name": "quick",
+    "fileName": "quick.sigml"
+  },
+  {
+    "name": "quiet",
+    "fileName": "quiet.sigml"
+  },
+  {
+    "name": "quote",
+    "fileName": "quote.sigml"
+  },
+  {
+    "name": "quran",
+    "fileName": "quran.sigml"
+  },
+  {
+    "name": "race",
+    "fileName": "race.sigml"
+  },
+  {
+    "name": "racing",
+    "fileName": "racing.sigml"
+  },
+  {
+    "name": "railway",
+    "fileName": "railway.sigml"
+  },
+  {
+    "name": "railway_station",
+    "fileName": "railway_station.sigml"
+  },
+  {
+    "name": "rare",
+    "fileName": "rare.sigml"
+  },
+  {
+    "name": "rarea",
+    "fileName": "rarea.sigml"
+  },
+  {
+    "name": "rborrow",
+    "fileName": "rborrow.sigml"
+  },
+  {
+    "name": "rchild",
+    "fileName": "rchild.sigml"
+  },
+  {
+    "name": "rclosedhand",
+    "fileName": "rclosedhand.sigml"
+  },
+  {
+    "name": "reach",
+    "fileName": "reach.sigml"
+  },
+  {
+    "name": "reaching",
+    "fileName": "reaching.sigml"
+  },
+  {
+    "name": "read",
+    "fileName": "read.sigml"
+  },
+  {
+    "name": "reading",
+    "fileName": "reading.sigml"
+  },
+  {
+    "name": "ready",
+    "fileName": "ready.sigml"
+  },
+  {
+    "name": "reason",
+    "fileName": "reason.sigml"
+  },
+  {
+    "name": "reat",
+    "fileName": "reat.sigml"
+  },
+  {
+    "name": "receive",
+    "fileName": "receive.sigml"
+  },
+  {
+    "name": "reception",
+    "fileName": "reception.sigml"
+  },
+  {
+    "name": "rectangle",
+    "fileName": "rectangle.sigml"
+  },
+  {
+    "name": "red",
+    "fileName": "red.sigml"
+  },
+  {
+    "name": "regions",
+    "fileName": "regions.sigml"
+  },
+  {
+    "name": "regular",
+    "fileName": "regular.sigml"
+  },
+  {
+    "name": "relate",
+    "fileName": "relate.sigml"
+  },
+  {
+    "name": "relation",
+    "fileName": "relation.sigml"
+  },
+  {
+    "name": "remind",
+    "fileName": "remind.sigml"
+  },
+  {
+    "name": "remove",
+    "fileName": "remove.sigml"
+  },
+  {
+    "name": "repeat",
+    "fileName": "repeat.sigml"
+  },
+  {
+    "name": "research",
+    "fileName": "research.sigml"
+  },
+  {
+    "name": "responsibility",
+    "fileName": "responsibility.sigml"
+  },
+  {
+    "name": "responsible",
+    "fileName": "responsible.sigml"
+  },
+  {
+    "name": "restaurant",
+    "fileName": "restaurant.sigml"
+  },
+  {
+    "name": "resting_position",
+    "fileName": "resting_position.sigml"
+  },
+  {
+    "name": "result",
+    "fileName": "result.sigml"
+  },
+  {
+    "name": "rfear",
+    "fileName": "rfear.sigml"
+  },
+  {
+    "name": "rfight",
+    "fileName": "rfight.sigml"
+  },
+  {
+    "name": "rfist",
+    "fileName": "rfist.sigml"
+  },
+  {
+    "name": "rfive",
+    "fileName": "rfive.sigml"
+  },
+  {
+    "name": "rfour",
+    "fileName": "rfour.sigml"
+  },
+  {
+    "name": "rhome",
+    "fileName": "rhome.sigml"
+  },
+  {
+    "name": "right",
+    "fileName": "right.sigml"
+  },
+  {
+    "name": "right-_me",
+    "fileName": "right-_me.sigml"
+  },
+  {
+    "name": "right-_that",
+    "fileName": "right-_that.sigml"
+  },
+  {
+    "name": "right_child",
+    "fileName": "right_child.sigml"
+  },
+  {
+    "name": "right_sick",
+    "fileName": "right_sick.sigml"
+  },
+  {
+    "name": "rmind",
+    "fileName": "rmind.sigml"
+  },
+  {
+    "name": "rmother",
+    "fileName": "rmother.sigml"
+  },
+  {
+    "name": "rone",
+    "fileName": "rone.sigml"
+  },
+  {
+    "name": "ronehandsign",
+    "fileName": "ronehandsign.sigml"
+  },
+  {
+    "name": "roof",
+    "fileName": "roof.sigml"
+  },
+  {
+    "name": "round-hand",
+    "fileName": "round-hand.sigml"
+  },
+  {
+    "name": "roundhand",
+    "fileName": "roundhand.sigml"
+  },
+  {
+    "name": "rportion",
+    "fileName": "rportion.sigml"
+  },
+  {
+    "name": "rpower",
+    "fileName": "rpower.sigml"
+  },
+  {
+    "name": "rread",
+    "fileName": "rread.sigml"
+  },
+  {
+    "name": "rrme",
+    "fileName": "rrme.sigml"
+  },
+  {
+    "name": "rrmind",
+    "fileName": "rrmind.sigml"
+  },
+  {
+    "name": "rroundhand",
+    "fileName": "rroundhand.sigml"
+  },
+  {
+    "name": "rrrtree",
+    "fileName": "rrrtree.sigml"
+  },
+  {
+    "name": "rrtree",
+    "fileName": "rrtree.sigml"
+  },
+  {
+    "name": "rrun",
+    "fileName": "rrun.sigml"
+  },
+  {
+    "name": "rrwater",
+    "fileName": "rrwater.sigml"
+  },
+  {
+    "name": "rsame",
+    "fileName": "rsame.sigml"
+  },
+  {
+    "name": "rsee",
+    "fileName": "rsee.sigml"
+  },
+  {
+    "name": "rsemi_roundhand",
+    "fileName": "rsemi_roundhand.sigml"
+  },
+  {
+    "name": "rsilence",
+    "fileName": "rsilence.sigml"
+  },
+  {
+    "name": "rtap",
+    "fileName": "rtap.sigml"
+  },
+  {
+    "name": "rten",
+    "fileName": "rten.sigml"
+  },
+  {
+    "name": "rthings",
+    "fileName": "rthings.sigml"
+  },
+  {
+    "name": "rthree",
+    "fileName": "rthree.sigml"
+  },
+  {
+    "name": "rtight",
+    "fileName": "rtight.sigml"
+  },
+  {
+    "name": "rtree",
+    "fileName": "rtree.sigml"
+  },
+  {
+    "name": "rtub",
+    "fileName": "rtub.sigml"
+  },
+  {
+    "name": "rtwo",
+    "fileName": "rtwo.sigml"
+  },
+  {
+    "name": "rub",
+    "fileName": "rub.sigml"
+  },
+  {
+    "name": "rubbing",
+    "fileName": "rubbing.sigml"
+  },
+  {
+    "name": "run",
+    "fileName": "run.sigml"
+  },
+  {
+    "name": "running",
+    "fileName": "running.sigml"
+  },
+  {
+    "name": "rwater",
+    "fileName": "rwater.sigml"
+  },
+  {
+    "name": "sad",
+    "fileName": "sad.sigml"
+  },
+  {
+    "name": "salary",
+    "fileName": "salary.sigml"
+  },
+  {
+    "name": "same",
+    "fileName": "same.sigml"
+  },
+  {
+    "name": "san",
+    "fileName": "san.sigml"
+  },
+  {
+    "name": "save",
+    "fileName": "save.sigml"
+  },
+  {
+    "name": "say",
+    "fileName": "say.sigml"
+  },
+  {
+    "name": "school",
+    "fileName": "school.sigml"
+  },
+  {
+    "name": "schoolbus",
+    "fileName": "schoolbus.sigml"
+  },
+  {
+    "name": "schools",
+    "fileName": "schools.sigml"
+  },
+  {
+    "name": "science",
+    "fileName": "science.sigml"
+  },
+  {
+    "name": "scooter",
+    "fileName": "scooter.sigml"
+  },
+  {
+    "name": "scotland",
+    "fileName": "scotland.sigml"
+  },
+  {
+    "name": "screen",
+    "fileName": "screen.sigml"
+  },
+  {
+    "name": "search",
+    "fileName": "search.sigml"
+  },
+  {
+    "name": "searching",
+    "fileName": "searching.sigml"
+  },
+  {
+    "name": "seat",
+    "fileName": "seat.sigml"
+  },
+  {
+    "name": "seated",
+    "fileName": "seated.sigml"
+  },
+  {
+    "name": "see",
+    "fileName": "see.sigml"
+  },
+  {
+    "name": "semi-roundhand",
+    "fileName": "semi-roundhand.sigml"
+  },
+  {
+    "name": "semiroundhand",
+    "fileName": "semiroundhand.sigml"
+  },
+  {
+    "name": "send",
+    "fileName": "send.sigml"
+  },
+  {
+    "name": "send-me",
+    "fileName": "send-me.sigml"
+  },
+  {
+    "name": "sentence",
+    "fileName": "sentence.sigml"
+  },
+  {
+    "name": "seven",
+    "fileName": "seven.sigml"
+  },
+  {
+    "name": "sevenhundred",
+    "fileName": "sevenhundred.sigml"
+  },
+  {
+    "name": "sevenoclock",
+    "fileName": "sevenoclock.sigml"
+  },
+  {
+    "name": "seventeen",
+    "fileName": "seventeen.sigml"
+  },
+  {
+    "name": "sewingmachine",
+    "fileName": "sewingmachine.sigml"
+  },
+  {
+    "name": "shake",
+    "fileName": "shake.sigml"
+  },
+  {
+    "name": "she",
+    "fileName": "she.sigml"
+  },
+  {
+    "name": "shop",
+    "fileName": "shop.sigml"
+  },
+  {
+    "name": "short",
+    "fileName": "short.sigml"
+  },
+  {
+    "name": "show",
+    "fileName": "show.sigml"
+  },
+  {
+    "name": "sick",
+    "fileName": "sick.sigml"
+  },
+  {
+    "name": "sign",
+    "fileName": "sign.sigml"
+  },
+  {
+    "name": "silver",
+    "fileName": "silver.sigml"
+  },
+  {
+    "name": "singular",
+    "fileName": "singular.sigml"
+  },
+  {
+    "name": "sitandmeet",
+    "fileName": "sitandmeet.sigml"
+  },
+  {
+    "name": "six",
+    "fileName": "six.sigml"
+  },
+  {
+    "name": "sixhundred",
+    "fileName": "sixhundred.sigml"
+  },
+  {
+    "name": "sixoclock",
+    "fileName": "sixoclock.sigml"
+  },
+  {
+    "name": "sixteen",
+    "fileName": "sixteen.sigml"
+  },
+  {
+    "name": "sleep",
+    "fileName": "sleep.sigml"
+  },
+  {
+    "name": "slow",
+    "fileName": "slow.sigml"
+  },
+  {
+    "name": "small",
+    "fileName": "small.sigml"
+  },
+  {
+    "name": "soft",
+    "fileName": "soft.sigml"
+  },
+  {
+    "name": "solve",
+    "fileName": "solve.sigml"
+  },
+  {
+    "name": "sometimes",
+    "fileName": "sometimes.sigml"
+  },
+  {
+    "name": "sorry",
+    "fileName": "sorry.sigml"
+  },
+  {
+    "name": "speak",
+    "fileName": "speak.sigml"
+  },
+  {
+    "name": "speaking",
+    "fileName": "speaking.sigml"
+  },
+  {
+    "name": "spelling",
+    "fileName": "spelling.sigml"
+  },
+  {
+    "name": "stay",
+    "fileName": "stay.sigml"
+  },
+  {
+    "name": "stethoscope",
+    "fileName": "stethoscope.sigml"
+  },
+  {
+    "name": "story",
+    "fileName": "story.sigml"
+  },
+  {
+    "name": "strength",
+    "fileName": "strength.sigml"
+  },
+  {
+    "name": "stubborn",
+    "fileName": "stubborn.sigml"
+  },
+  {
+    "name": "student",
+    "fileName": "student.sigml"
+  },
+  {
+    "name": "students",
+    "fileName": "students.sigml"
+  },
+  {
+    "name": "stupid",
+    "fileName": "stupid.sigml"
+  },
+  {
+    "name": "sunday",
+    "fileName": "sunday.sigml"
+  },
+  {
+    "name": "swim",
+    "fileName": "swim.sigml"
+  },
+  {
+    "name": "swimming",
+    "fileName": "swimming.sigml"
+  },
+  {
+    "name": "switzerland",
+    "fileName": "switzerland.sigml"
+  },
+  {
+    "name": "tabla",
+    "fileName": "tabla.sigml"
+  },
+  {
+    "name": "table-tennis",
+    "fileName": "table-tennis.sigml"
+  },
+  {
+    "name": "tablet",
+    "fileName": "tablet.sigml"
+  },
+  {
+    "name": "tailor",
+    "fileName": "tailor.sigml"
+  },
+  {
+    "name": "take",
+    "fileName": "take.sigml"
+  },
+  {
+    "name": "talk",
+    "fileName": "talk.sigml"
+  },
+  {
+    "name": "talking",
+    "fileName": "talking.sigml"
+  },
+  {
+    "name": "tall",
+    "fileName": "tall.sigml"
+  },
+  {
+    "name": "tallness",
+    "fileName": "tallness.sigml"
+  },
+  {
+    "name": "tamil",
+    "fileName": "tamil.sigml"
+  },
+  {
+    "name": "tap",
+    "fileName": "tap.sigml"
+  },
+  {
+    "name": "taste",
+    "fileName": "taste.sigml"
+  },
+  {
+    "name": "taxi",
+    "fileName": "taxi.sigml"
+  },
+  {
+    "name": "teach",
+    "fileName": "teach.sigml"
+  },
+  {
+    "name": "teacher",
+    "fileName": "teacher.sigml"
+  },
+  {
+    "name": "teachme",
+    "fileName": "teachme.sigml"
+  },
+  {
+    "name": "teachyou",
+    "fileName": "teachyou.sigml"
+  },
+  {
+    "name": "tear",
+    "fileName": "tear.sigml"
+  },
+  {
+    "name": "tease",
+    "fileName": "tease.sigml"
+  },
+  {
+    "name": "teat",
+    "fileName": "teat.sigml"
+  },
+  {
+    "name": "technical",
+    "fileName": "technical.sigml"
+  },
+  {
+    "name": "teeth",
+    "fileName": "teeth.sigml"
+  },
+  {
+    "name": "telgu",
+    "fileName": "telgu.sigml"
+  },
+  {
+    "name": "temperature",
+    "fileName": "temperature.sigml"
+  },
+  {
+    "name": "temple",
+    "fileName": "temple.sigml"
+  },
+  {
+    "name": "ten",
+    "fileName": "ten.sigml"
+  },
+  {
+    "name": "tennis",
+    "fileName": "tennis.sigml"
+  },
+  {
+    "name": "tenoclock",
+    "fileName": "tenoclock.sigml"
+  },
+  {
+    "name": "thankyou",
+    "fileName": "thankyou.sigml"
+  },
+  {
+    "name": "that",
+    "fileName": "that.sigml"
+  },
+  {
+    "name": "theif",
+    "fileName": "theif.sigml"
+  },
+  {
+    "name": "their",
+    "fileName": "their.sigml"
+  },
+  {
+    "name": "them",
+    "fileName": "them.sigml"
+  },
+  {
+    "name": "themselves",
+    "fileName": "themselves.sigml"
+  },
+  {
+    "name": "then",
+    "fileName": "then.sigml"
+  },
+  {
+    "name": "there",
+    "fileName": "there.sigml"
+  },
+  {
+    "name": "thermometer",
+    "fileName": "thermometer.sigml"
+  },
+  {
+    "name": "thermus",
+    "fileName": "thermus.sigml"
+  },
+  {
+    "name": "these",
+    "fileName": "these.sigml"
+  },
+  {
+    "name": "they",
+    "fileName": "they.sigml"
+  },
+  {
+    "name": "think",
+    "fileName": "think.sigml"
+  },
+  {
+    "name": "thirsty",
+    "fileName": "thirsty.sigml"
+  },
+  {
+    "name": "thirteen",
+    "fileName": "thirteen.sigml"
+  },
+  {
+    "name": "this",
+    "fileName": "this.sigml"
+  },
+  {
+    "name": "thorn",
+    "fileName": "thorn.sigml"
+  },
+  {
+    "name": "those",
+    "fileName": "those.sigml"
+  },
+  {
+    "name": "thread",
+    "fileName": "thread.sigml"
+  },
+  {
+    "name": "three",
+    "fileName": "three.sigml"
+  },
+  {
+    "name": "threehundred",
+    "fileName": "threehundred.sigml"
+  },
+  {
+    "name": "threeoclock",
+    "fileName": "threeoclock.sigml"
+  },
+  {
+    "name": "throw",
+    "fileName": "throw.sigml"
+  },
+  {
+    "name": "thumb",
+    "fileName": "thumb.sigml"
+  },
+  {
+    "name": "thumb-little-finger",
+    "fileName": "thumb-little-finger.sigml"
+  },
+  {
+    "name": "thumbup",
+    "fileName": "thumbup.sigml"
+  },
+  {
+    "name": "thursday",
+    "fileName": "thursday.sigml"
+  },
+  {
+    "name": "ticket",
+    "fileName": "ticket.sigml"
+  },
+  {
+    "name": "ticketchecker",
+    "fileName": "ticketchecker.sigml"
+  },
+  {
+    "name": "tie",
+    "fileName": "tie.sigml"
+  },
+  {
+    "name": "tiffinbox",
+    "fileName": "tiffinbox.sigml"
+  },
+  {
+    "name": "tight",
+    "fileName": "tight.sigml"
+  },
+  {
+    "name": "tighten",
+    "fileName": "tighten.sigml"
+  },
+  {
+    "name": "time",
+    "fileName": "time.sigml"
+  },
+  {
+    "name": "tippi",
+    "fileName": "tippi.sigml"
+  },
+  {
+    "name": "today",
+    "fileName": "today.sigml"
+  },
+  {
+    "name": "together",
+    "fileName": "together.sigml"
+  },
+  {
+    "name": "tomato",
+    "fileName": "tomato.sigml"
+  },
+  {
+    "name": "tomorrow",
+    "fileName": "tomorrow.sigml"
+  },
+  {
+    "name": "tools",
+    "fileName": "tools.sigml"
+  },
+  {
+    "name": "touch",
+    "fileName": "touch.sigml"
+  },
+  {
+    "name": "toward",
+    "fileName": "toward.sigml"
+  },
+  {
+    "name": "town",
+    "fileName": "town.sigml"
+  },
+  {
+    "name": "track",
+    "fileName": "track.sigml"
+  },
+  {
+    "name": "trade-equipment",
+    "fileName": "trade-equipment.sigml"
+  },
+  {
+    "name": "train",
+    "fileName": "train.sigml"
+  },
+  {
+    "name": "transport",
+    "fileName": "transport.sigml"
+  },
+  {
+    "name": "travel",
+    "fileName": "travel.sigml"
+  },
+  {
+    "name": "tree",
+    "fileName": "tree.sigml"
+  },
+  {
+    "name": "trophy",
+    "fileName": "trophy.sigml"
+  },
+  {
+    "name": "truck",
+    "fileName": "truck.sigml"
+  },
+  {
+    "name": "truth",
+    "fileName": "truth.sigml"
+  },
+  {
+    "name": "try",
+    "fileName": "try.sigml"
+  },
+  {
+    "name": "tub",
+    "fileName": "tub.sigml"
+  },
+  {
+    "name": "tuesday",
+    "fileName": "tuesday.sigml"
+  },
+  {
+    "name": "turn",
+    "fileName": "turn.sigml"
+  },
+  {
+    "name": "turnip",
+    "fileName": "turnip.sigml"
+  },
+  {
+    "name": "turnleft",
+    "fileName": "turnleft.sigml"
+  },
+  {
+    "name": "tv",
+    "fileName": "tv.sigml"
+  },
+  {
+    "name": "twelveclock",
+    "fileName": "twelveclock.sigml"
+  },
+  {
+    "name": "twenty",
+    "fileName": "twenty.sigml"
+  },
+  {
+    "name": "two",
+    "fileName": "two.sigml"
+  },
+  {
+    "name": "twohundred",
+    "fileName": "twohundred.sigml"
+  },
+  {
+    "name": "twooclock",
+    "fileName": "twooclock.sigml"
+  },
+  {
+    "name": "typewriter",
+    "fileName": "typewriter.sigml"
+  },
+  {
+    "name": "typist",
+    "fileName": "typist.sigml"
+  },
+  {
+    "name": "ugly",
+    "fileName": "ugly.sigml"
+  },
+  {
+    "name": "umbrella",
+    "fileName": "umbrella.sigml"
+  },
+  {
+    "name": "under",
+    "fileName": "under.sigml"
+  },
+  {
+    "name": "understand",
+    "fileName": "understand.sigml"
+  },
+  {
+    "name": "uniform",
+    "fileName": "uniform.sigml"
+  },
+  {
+    "name": "university",
+    "fileName": "university.sigml"
+  },
+  {
+    "name": "until",
+    "fileName": "until.sigml"
+  },
+  {
+    "name": "up",
+    "fileName": "up.sigml"
+  },
+  {
+    "name": "urdu",
+    "fileName": "urdu.sigml"
+  },
+  {
+    "name": "us",
+    "fileName": "us.sigml"
+  },
+  {
+    "name": "vadodara",
+    "fileName": "vadodara.sigml"
+  },
+  {
+    "name": "van",
+    "fileName": "van.sigml"
+  },
+  {
+    "name": "vapour",
+    "fileName": "vapour.sigml"
+  },
+  {
+    "name": "vegetable",
+    "fileName": "vegetable.sigml"
+  },
+  {
+    "name": "vegetables",
+    "fileName": "vegetables.sigml"
+  },
+  {
+    "name": "velvet",
+    "fileName": "velvet.sigml"
+  },
+  {
+    "name": "very",
+    "fileName": "very.sigml"
+  },
+  {
+    "name": "veryverydifficult",
+    "fileName": "veryverydifficult.sigml"
+  },
+  {
+    "name": "video",
+    "fileName": "video.sigml"
+  },
+  {
+    "name": "visit",
+    "fileName": "visit.sigml"
+  },
+  {
+    "name": "volleyball",
+    "fileName": "volleyball.sigml"
+  },
+  {
+    "name": "vomit",
+    "fileName": "vomit.sigml"
+  },
+  {
+    "name": "vote",
+    "fileName": "vote.sigml"
+  },
+  {
+    "name": "wait",
+    "fileName": "wait.sigml"
+  },
+  {
+    "name": "wales",
+    "fileName": "wales.sigml"
+  },
+  {
+    "name": "walkacross",
+    "fileName": "walkacross.sigml"
+  },
+  {
+    "name": "wall-clock",
+    "fileName": "wall-clock.sigml"
+  },
+  {
+    "name": "want",
+    "fileName": "want.sigml"
+  },
+  {
+    "name": "was",
+    "fileName": "was.sigml"
+  },
+  {
+    "name": "wash",
+    "fileName": "wash.sigml"
+  },
+  {
+    "name": "waste",
+    "fileName": "waste.sigml"
+  },
+  {
+    "name": "water",
+    "fileName": "water.sigml"
+  },
+  {
+    "name": "water-bottle",
+    "fileName": "water-bottle.sigml"
+  },
+  {
+    "name": "water1",
+    "fileName": "water1.sigml"
+  },
+  {
+    "name": "we",
+    "fileName": "we.sigml"
+  },
+  {
+    "name": "weapon",
+    "fileName": "weapon.sigml"
+  },
+  {
+    "name": "weaver",
+    "fileName": "weaver.sigml"
+  },
+  {
+    "name": "weewee",
+    "fileName": "weewee.sigml"
+  },
+  {
+    "name": "weigh",
+    "fileName": "weigh.sigml"
+  },
+  {
+    "name": "weight",
+    "fileName": "weight.sigml"
+  },
+  {
+    "name": "welcome",
+    "fileName": "welcome.sigml"
+  },
+  {
+    "name": "well",
+    "fileName": "well.sigml"
+  },
+  {
+    "name": "west",
+    "fileName": "west.sigml"
+  },
+  {
+    "name": "what",
+    "fileName": "what.sigml"
+  },
+  {
+    "name": "wheat",
+    "fileName": "wheat.sigml"
+  },
+  {
+    "name": "when",
+    "fileName": "when.sigml"
+  },
+  {
+    "name": "where",
+    "fileName": "where.sigml"
+  },
+  {
+    "name": "which",
+    "fileName": "which.sigml"
+  },
+  {
+    "name": "whistle",
+    "fileName": "whistle.sigml"
+  },
+  {
+    "name": "white",
+    "fileName": "white.sigml"
+  },
+  {
+    "name": "who",
+    "fileName": "who.sigml"
+  },
+  {
+    "name": "why",
+    "fileName": "why.sigml"
+  },
+  {
+    "name": "wide",
+    "fileName": "wide.sigml"
+  },
+  {
+    "name": "will",
+    "fileName": "will.sigml"
+  },
+  {
+    "name": "win",
+    "fileName": "win.sigml"
+  },
+  {
+    "name": "wipe",
+    "fileName": "wipe.sigml"
+  },
+  {
+    "name": "wipe-off",
+    "fileName": "wipe-off.sigml"
+  },
+  {
+    "name": "wire",
+    "fileName": "wire.sigml"
+  },
+  {
+    "name": "wish",
+    "fileName": "wish.sigml"
+  },
+  {
+    "name": "with",
+    "fileName": "with.sigml"
+  },
+  {
+    "name": "without",
+    "fileName": "without.sigml"
+  },
+  {
+    "name": "woman",
+    "fileName": "woman.sigml"
+  },
+  {
+    "name": "word",
+    "fileName": "word.sigml"
+  },
+  {
+    "name": "work",
+    "fileName": "work.sigml"
+  },
+  {
+    "name": "worn(warn)",
+    "fileName": "worn(warn).sigml"
+  },
+  {
+    "name": "worry",
+    "fileName": "worry.sigml"
+  },
+  {
+    "name": "worse",
+    "fileName": "worse.sigml"
+  },
+  {
+    "name": "worst",
+    "fileName": "worst.sigml"
+  },
+  {
+    "name": "wrestling",
+    "fileName": "wrestling.sigml"
+  },
+  {
+    "name": "write",
+    "fileName": "write.sigml"
+  },
+  {
+    "name": "writedown",
+    "fileName": "writedown.sigml"
+  },
+  {
+    "name": "writesend",
+    "fileName": "writesend.sigml"
+  },
+  {
+    "name": "wrong",
+    "fileName": "wrong.sigml"
+  },
+  {
+    "name": "x-ray",
+    "fileName": "x-ray.sigml"
+  },
+  {
+    "name": "yeah",
+    "fileName": "yeah.sigml"
+  },
+  {
+    "name": "yellow",
+    "fileName": "yellow.sigml"
+  },
+  {
+    "name": "yes",
+    "fileName": "yes.sigml"
+  },
+  {
+    "name": "yesterday",
+    "fileName": "yesterday.sigml"
+  },
+  {
+    "name": "you",
+    "fileName": "you.sigml"
+  },
+  {
+    "name": "youfillinwipe-off",
+    "fileName": "youfillinwipe-off.sigml"
+  },
+  {
+    "name": "youhowold",
+    "fileName": "youhowold.sigml"
+  },
+  {
+    "name": "your",
+    "fileName": "your.sigml"
+  },
+  {
+    "name": "yourhobbieswhat",
+    "fileName": "yourhobbieswhat.sigml"
+  },
+  {
+    "name": "yournamewhat",
+    "fileName": "yournamewhat.sigml"
+  },
+  {
+    "name": "yours",
+    "fileName": "yours.sigml"
+  },
+  {
+    "name": "yourself",
+    "fileName": "yourself.sigml"
+  },
+  {
+    "name": "yourselves",
+    "fileName": "yourselves.sigml"
+  },
+  {
+    "name": "zebra-crossing",
+    "fileName": "zebra-crossing.sigml"
+  },
+  {
+    "name": "zero",
+    "fileName": "zero.sigml"
+  },
+  {
+    "name": "zoo",
+    "fileName": "zoo.sigml"
+  }
+]

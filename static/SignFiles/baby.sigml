@@ -1,0 +1,16 @@
+<sigml>
+<hns_sign gloss="baby">
+        <hamnosys_nonmanual>
+                <hnm_mouthpicture picture="beIbi"/>
+        </hamnosys_nonmanual>
+        <hamnosys_manual>
+                <hamsymmlr/>
+                <hamflathand/>
+                <hamextfingerl/>
+                <hampalmu/>
+                <hamstomach/>
+                <hamswinging/>
+                <hamrepeatfromstart/>
+        </hamnosys_manual>
+</hns_sign>
+</sigml>

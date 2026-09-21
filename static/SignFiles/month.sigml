@@ -1,0 +1,21 @@
+<sigml>
+<hns_sign gloss="month">
+        <hamnosys_nonmanual>
+                <hnm_mouthpicture picture="mVnT"/>
+        </hamnosys_nonmanual>
+        <hamnosys_manual>
+                <hamfinger2/>
+                <hamfingerstraightmod/>
+                <hamextfingeru/>
+                <hampalml/>
+                <hambetween/>
+                <hamfinger2/>
+                <hamfingerstraightmod/>
+                <hamextfingeru/>
+                <hampalmr/>
+                <hamchest/>
+                <hammoved/>
+                <hamlargemod/>
+        </hamnosys_manual>
+</hns_sign>
+</sigml>

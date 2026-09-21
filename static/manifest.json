@@ -1,0 +1,22 @@
+{
+  "short_name": "SignBridge",
+  "name": "SignBridge — STEM to Sign Language Tutor",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/000000/sign-language.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/000000/sign-language.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0B0F19",
+  "theme_color": "#4F46E5",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/"
+}

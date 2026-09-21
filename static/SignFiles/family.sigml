@@ -1,0 +1,25 @@
+<sigml>
+<hns_sign gloss="family">
+        <hamnosys_nonmanual>
+                <hnm_mouthpicture picture="f&amp;m@li"/>
+        </hamnosys_nonmanual>
+        <hamnosys_manual>
+                <hamsymmlr/>
+                <hamfinger2/>
+                <hamthumboutmod/>
+                <hamextfingero/>
+                <hampalmd/>
+                <hamchest/>
+                <hamclose/>
+                <hamparbegin/>
+                <hamfingertip/>
+                <hamindexfinger/>
+                <hamplus/>
+                <hamfingertip/>
+                <hamthumb/>
+                <hamparend/>
+                <hamtouch/>
+                <hamcircleo/>
+        </hamnosys_manual>
+</hns_sign>
+</sigml>
